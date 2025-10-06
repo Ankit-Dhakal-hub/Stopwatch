@@ -17,4 +17,4 @@ It allows users to start, stop, and reset the timer with millisecond accuracy.
 [👉 View on Netlify](https://stopwatch-1-3.netlify.app/)
 
 ## 📸 Screenshot
-![Stopwatch App Screenshot](screenshot.png)
+![Stopwatch App Screenshot](screenshot2.png)
